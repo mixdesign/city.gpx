@@ -6,5 +6,8 @@ City .GPX files used in Xcode projects.
 Countries
 ---------
 - Kazakhstan
-  - Almaty
-  - Astana
+  - Astana, Almaty
+
+Contributing
+---------
+Add more countries and cities
